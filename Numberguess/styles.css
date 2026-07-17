@@ -1,0 +1,70 @@
+* {
+    font-family: Poppins, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background: url(backg.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#name {
+    font-size: 72px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 3px solid rgba(255, 255, 255, .2);
+    color: white;
+    backdrop-filter: blur(10px);
+}
+
+#enter {
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#Guess {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    display: flex;
+    min-height: 50px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 40px;
+    justify-content: center;
+}
+
+.hintbox {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#submit {
+    font-size: 18px;
+    font-weight: 600;
+    display: flex;
+    width: 25%;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    outline: none;
+    background: white;
+    min-height: 30px;
+    cursor: pointer;
+    border-radius: 100px;
+    border: 2px solid black;
+}
+
+#submit:hover {
+    background: rgb(215, 215, 215);
+}
