@@ -10,6 +10,7 @@ A collection of small web development projects built while learning HTML, CSS, a
 - Number Guessing Game
 - Dice Roller
 - Temperature Converter
+- Digital Clock
 
 ## Concepts Practiced
 
