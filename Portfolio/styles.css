@@ -1,0 +1,165 @@
+* {
+    font-family: Poppins, Montserrat, sans-serif;
+}
+
+.page1 {
+    background: url(backdrop.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.main {
+    color: white;
+    margin: 0;
+    padding: 5px 5px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .5);
+    width: 99%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+}
+
+.main .image img {
+    display: flex;
+    margin-top: 0;
+    padding: 0;
+    border-radius: 100%;
+    transform: translateY(-30%);
+    width: 25%;
+    max-width: 150px;
+    float: inline-end;
+    border: 2px solid white;
+}
+
+.main .button {
+    position: relative;
+    transform: translateX(50%);
+    width: 50%;
+    height: 45px;
+    background: rgb(255, 255, 255);
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.main .button:hover {
+    background: rgb(230, 230, 230);
+}
+
+#abt {
+    margin-top: 10px;
+}
+
+#skills {
+    margin-top: 10px;
+}
+
+.skillcards {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.skillbox {
+    color: white;
+    margin: 0;
+    margin-bottom: 3px;
+    text-align: center;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .9);
+    width: 200px;
+    height: 210px;
+    border-radius: 10px;
+    backdrop-filter: blur(20px);
+}
+
+ul {
+    list-style-position: inside;
+    padding: 0;
+}
+
+#contact {
+    margin-top: 10px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.page2 {
+    background: url(projects\ bg.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.page2 .heading {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255, 255, 255, .5);
+    color: white;
+    border-radius: 10px;
+}
+
+
+.projectcards {
+    display: flex;
+    justify-content: space-evenly;
+    width: 99%;
+}
+
+.projectcards h4 {
+    font-size: 27px;
+    padding: 5px 5px;
+}
+
+.projectcards p {
+    padding: 0 5px;
+}
+
+.projectbox {
+    color: white;
+    margin: 0;
+    padding: 5px 5px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .5);
+    backdrop-filter: blur(10px);
+    text-align: center;
+    float: inline-start;
+    width: 30%;
+    height: 350px;
+    border-radius: 10px;
+}
+
+.projectlinks {
+    color: white;
+    text-decoration: none;
+}
+
+.projectlinks:hover {
+    text-decoration: underline;
+}
+
+#pcalc {
+    margin-top: 30px;
+}
+
+#mp {
+    margin-top: 30px;
+}
