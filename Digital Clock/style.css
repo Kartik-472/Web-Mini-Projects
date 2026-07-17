@@ -1,0 +1,45 @@
+* {
+    font-family: Poppins, Montserrat, Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: white;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('backdrop.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#ClockContainer {
+    padding: 50px;
+    border: 2px solid hsl(0, 0%, 70%);
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    box-shadow: 12px 12px 2px 1px hsla(0, 0%, 100%, 0.2);
+}
+
+#day {
+    margin-bottom: 30px;
+    font-size: 7em;
+    font-weight: bold;
+    text-align: center;
+}
+
+#time {
+    margin-bottom: 30px;
+    font-size: 5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+#date {
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+}
