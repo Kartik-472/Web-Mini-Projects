@@ -11,6 +11,8 @@ A collection of small web development projects built while learning HTML, CSS, a
 - Dice Roller
 - Temperature Converter
 - Digital Clock
+- Stopwatch
+- Calculator
 
 ## Concepts Practiced
 
@@ -18,6 +20,7 @@ A collection of small web development projects built while learning HTML, CSS, a
 - Semantic HTML
 - CSS Styling
 - Flexbox
+- CSS Grid
 - Responsive Layouts
 - DOM Manipulation
 - Event Handling
@@ -28,8 +31,12 @@ A collection of small web development projects built while learning HTML, CSS, a
 - Functions
 - Arrays
 - Random Number Generation
+- JavaScript Date Object
+- Timers (`setInterval`)
 - Dynamic Content Rendering
+- String Manipulation
+- Error Handling (`try...catch`)
 
 ## Goal
 
-This repository documents my journey of learning front-end web development through hands-on projects rather than only following tutorials. Each project helps strengthen my understanding of HTML, CSS, JavaScript, and the fundamentals of building interactive web applications.
+This repository documents my journey of learning front-end web development by building projects instead of only following tutorials. Each project introduces new concepts and helps strengthen my understanding of HTML, CSS, JavaScript, and the fundamentals of creating interactive web applications.
