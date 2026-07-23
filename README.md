@@ -8,6 +8,7 @@ A collection of small web development projects built while learning HTML, CSS, a
 - Login Page
 - Counter App
 - Number Guessing Game
+- Rock Paper Scissors
 - Dice Roller
 - Temperature Converter
 - Digital Clock
@@ -36,7 +37,13 @@ A collection of small web development projects built while learning HTML, CSS, a
 - Dynamic Content Rendering
 - String Manipulation
 - Error Handling (`try...catch`)
+- State Management
+- Score Tracking
+- User Input Validation
+- Basic Game Logic
 
 ## Goal
 
 This repository documents my journey of learning front-end web development by building projects instead of only following tutorials. Each project introduces new concepts and helps strengthen my understanding of HTML, CSS, JavaScript, and the fundamentals of creating interactive web applications.
+
+As I continue learning, new projects will be added to explore more advanced JavaScript concepts and improve my problem-solving and development skills.
