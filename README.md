@@ -14,6 +14,7 @@ A collection of small web development projects built while learning HTML, CSS, a
 - Digital Clock
 - Stopwatch
 - Calculator
+- Weather App
 
 ## Concepts Practiced
 
@@ -32,18 +33,16 @@ A collection of small web development projects built while learning HTML, CSS, a
 - Functions
 - Arrays
 - Random Number Generation
+- String Manipulation
 - JavaScript Date Object
 - Timers (`setInterval`)
 - Dynamic Content Rendering
-- String Manipulation
-- Error Handling (`try...catch`)
-- State Management
-- Score Tracking
 - User Input Validation
 - Basic Game Logic
-
-## Goal
-
-This repository documents my journey of learning front-end web development by building projects instead of only following tutorials. Each project introduces new concepts and helps strengthen my understanding of HTML, CSS, JavaScript, and the fundamentals of creating interactive web applications.
-
-As I continue learning, new projects will be added to explore more advanced JavaScript concepts and improve my problem-solving and development skills.
+- State Management
+- Score Tracking
+- Error Handling (`try...catch`)
+- Fetch API
+- Async/Await
+- Working with REST APIs
+- JSON Data Handling
